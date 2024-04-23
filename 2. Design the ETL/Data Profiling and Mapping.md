@@ -29,6 +29,10 @@ The typical sequence for using this software to generate documentation of an ETL
 - Connect source tables to CDM tables where the source table provides information for that corresponding CDM table.
 - For each source table to CDM table connection, further define the connection with source column to CDM column detail.
 - Save Rabbit-In-a-Hat work and export to a MS Word document.
+  
+## NUHDSS Rabbit in a hat Mapping report 
+![image](https://github.com/Chebet254/NUHDSS-Residence-VA-ETL-to-OMOP/assets/93149259/7564ec84-f11d-4f4a-8b6a-404d158ed9af)
+
 
 ## General Flow of an ETL
 ![Alt text](https://ohdsi.github.io/TheBookOfOhdsi/images/ExtractTransformLoad/flowOfEtl.png)
