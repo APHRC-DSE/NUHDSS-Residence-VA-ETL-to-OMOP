@@ -3,7 +3,7 @@ This repository describes the ETL process for Nairobi Urban HDSS ETL to OMOP and
 
 It contains code, and information to extract, transform and load ALPHA source data from Nairobi Urban HDSS (NUHDSS) to a local instance OMOP database. 
 
-##Software needed
+## Software needed
 
 - White rabbit
 - Rabbit in a hat
@@ -11,7 +11,7 @@ It contains code, and information to extract, transform and load ALPHA source da
 - DBMS(Postgres, MySQL, SQLite etc)
 - R
   
-###STEPS FOLLOWED
+### STEPS FOLLOWED
 
 1. Data Profiling and Exploratory data analysis: White Rabbit and R are used to profile and generate scan report and EDA.
 
