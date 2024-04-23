@@ -16,7 +16,12 @@ The typical sequence for using the software to scan source data:
  - White Rabbit creates an export of information about the source data.
 
 ## NUHDSS White Rabbit Scan report 
+- Soucr data Mapping Approach
 ![NUHDSS Scan report](https://github.com/Chebet254/Images-/blob/main/nuhdss%20scan%20report.png)
+
+- Person table Mapping
+  ![image](https://github.com/Chebet254/NUHDSS-Residence-VA-ETL-to-OMOP/assets/93149259/23f24cb3-58fe-407f-8c1e-a83a147b5eaa)
+
 ## 2. Rabbit in a Hat
    
 Rabbit-In-a-Hat is designed to read and display a White Rabbit scan document. White Rabbit generates information about the source data
