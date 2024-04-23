@@ -15,6 +15,8 @@ The typical sequence for using the software to scan source data:
  - Select the tables of interest for the scan and scan the tables.
  - White Rabbit creates an export of information about the source data.
 
+## NUHDSS White Rabbit Scan report 
+![NUHDSS Scan report](https://github.com/Chebet254/Images-/blob/main/nuhdss%20scan%20report.png)
 ## 2. Rabbit in a Hat
    
 Rabbit-In-a-Hat is designed to read and display a White Rabbit scan document. White Rabbit generates information about the source data
