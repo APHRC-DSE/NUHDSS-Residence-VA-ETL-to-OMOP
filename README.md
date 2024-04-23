@@ -26,4 +26,4 @@ It contains code, and information to extract, transform and load ALPHA source da
 7. Visualization in Atlas : Aggregated data(results tables), OMOP tables and vocabulary tables were integrated with Atlas and webAPI
 
 
-Visit [GitHub](https://github.com/OHDSI/WebAPI/wiki/CDM-Configuration) for more information.
+Visit [OHDSI GitHub](https://github.com/OHDSI/WebAPI/wiki/CDM-Configuration) for more information.
