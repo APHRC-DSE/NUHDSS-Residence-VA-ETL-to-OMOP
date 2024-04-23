@@ -16,7 +16,7 @@ The typical sequence for using the software to scan source data:
  - White Rabbit creates an export of information about the source data.
 
 ## NUHDSS White Rabbit Scan report 
-- Soucr data Mapping Approach
+- Source data Mapping Approach to CDMV5.4
 ![NUHDSS Scan report](https://github.com/Chebet254/Images-/blob/main/nuhdss%20scan%20report.png)
 
 - Person table Mapping
