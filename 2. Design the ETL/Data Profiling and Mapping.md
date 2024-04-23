@@ -16,11 +16,7 @@ The typical sequence for using the software to scan source data:
  - White Rabbit creates an export of information about the source data.
 
 ## NUHDSS White Rabbit Scan report 
-- Source data Mapping Approach to CDMV5.4
 ![NUHDSS Scan report](https://github.com/Chebet254/Images-/blob/main/nuhdss%20scan%20report.png)
-
-- Person table Mapping
-  ![image](https://github.com/Chebet254/NUHDSS-Residence-VA-ETL-to-OMOP/assets/93149259/23f24cb3-58fe-407f-8c1e-a83a147b5eaa)
 
 ## 2. Rabbit in a Hat
    
@@ -36,8 +32,10 @@ The typical sequence for using this software to generate documentation of an ETL
 - Save Rabbit-In-a-Hat work and export to a MS Word document.
   
 ## NUHDSS Rabbit in a hat Mapping report 
+- Source data Mapping Approach to CDMV5.4
 ![image](https://github.com/Chebet254/NUHDSS-Residence-VA-ETL-to-OMOP/assets/93149259/7564ec84-f11d-4f4a-8b6a-404d158ed9af)
 
-
+- Person table Mapping
+  ![image](https://github.com/Chebet254/NUHDSS-Residence-VA-ETL-to-OMOP/assets/93149259/23f24cb3-58fe-407f-8c1e-a83a147b5eaa)
 ## General Flow of an ETL
 ![Alt text](https://ohdsi.github.io/TheBookOfOhdsi/images/ExtractTransformLoad/flowOfEtl.png)
