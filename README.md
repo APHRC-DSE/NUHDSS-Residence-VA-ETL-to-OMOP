@@ -18,7 +18,7 @@ It contains code, and information to extract, transform and load ALPHA source da
 3. Vocabulary Mapping. 
 4. ETL Implementation. I used PostgreSQL to write SQL scripts for transforming source codes to OMOP terminologies. Penataho can equally be used for ETL
     Data Quality Assurance: OHDSI library for quality assurance of the CDM 'DataQualityDashboard' was installed and run against the OMOP database. Visit [OHDSI DQD GitHub](https://github.com/OHDSI/DataQualityDashboard) for more information on DQD documentation and installation.
- 5. Data Quality Checks to DQD Dashboard.
+ 5. Data Quality Checks to generate DQD Dashboard.
     
  7. Generating Aggregated (Results tables) data for Atlas using Achilles R library by OHDSI for data characterization tool. This is an automated process using codes developed by [OHDSI](https://github.com/OHDSI/Achilles)
 
